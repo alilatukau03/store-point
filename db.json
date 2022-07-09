@@ -1,0 +1,37 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Iphone XR 64gb",
+      "price": 4000000
+    },
+    {
+      "id": 2,
+      "title": "Iphone XR 128gb",
+      "price": 4500000
+    },
+    {
+      "id": 3,
+      "title": {
+        "requestId": "RGIIwm4XMVvFGF2Udd4pt",
+        "signal": {}
+      },
+      "price": 10000000
+    },
+    {
+      "id": 4,
+      "title": "Iphone 11 Pro 64gb",
+      "price": 11000000
+    },
+    {
+      "id": 5,
+      "title": "Iphone 11 Pro Max 256gb",
+      "price": 12000000
+    },
+    {
+      "id": 6,
+      "title": "Iphone 12 Pro Max 256gb",
+      "price": 13000000
+    }
+  ]
+}
